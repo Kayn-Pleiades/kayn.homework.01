@@ -8,6 +8,14 @@
 
 ## description 
 
+Webpage is live at  https://kayn-pleiades.github.io/kayn.homework.01/
+
+```md
+![screenshot of the inspect element showing the page and my code](/assets/images/screenshot.png)
+```
+
+In this project, I edited a webpage to meet accesibility standards. My process is detailed in the next section.
+
 ## process
 
 Commit 1: Initial Commit
@@ -33,9 +41,13 @@ Commit 5: added img alt text
     After it worked perfectly, I shared what had led me to my solution in hopes the others would find it helpful as well!
     Once that was settled, I added alt text to all my images. 
 
+Commit 6: final commit
+    Added "Social Solution Services" to the title.
+    Finished up the README document.
+
 ## credits
 
 Resources I utalized during this assignment:
 Semantic Elements: https://www.w3schools.com/html/html5_semantic_elements.asp
 Addtional info on HTML structure: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure
-
+Guide on how to crop images in CSS: https://www.educative.io/edpresso/how-to-crop-an-image-in-css 
